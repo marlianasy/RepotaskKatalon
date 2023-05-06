@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dt_penjualan</name>
+   <tag></tag>
+   <elementGuidId>23aac914-8c85-4f89-b0a8-b9f5f382968c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//dt[(text() = 'penjualan' or . = 'penjualan')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>dt</value>
+      <webElementGuid>11197faf-4cac-42b8-965b-e4bce77b6cc1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stat__label css-14go5ty</value>
+      <webElementGuid>b6a6c308-ce85-4967-9a20-7ac013d29a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>penjualan</value>
+      <webElementGuid>2bd5723b-8c6d-4785-8771-e61eb4ad1990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;css-k008qs&quot;]/div[@class=&quot;css-1r35f0l&quot;]/div[@class=&quot;chakra-container css-9rmdie&quot;]/div[@class=&quot;css-j7qwjs&quot;]/div[@class=&quot;css-trlcwy&quot;]/div[@class=&quot;css-13pc7q0&quot;]/div[@class=&quot;chakra-stat css-1mbo1ls&quot;]/dl[1]/dt[@class=&quot;chakra-stat__label css-14go5ty&quot;]</value>
+      <webElementGuid>990adbcb-e12d-4fff-8c29-60f1e521a557</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div/div[2]/div/dl/dt</value>
+      <webElementGuid>bc3d7a12-8718-4972-a0d7-7ffacb5f01f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hai'])[1]/following::dt[1]</value>
+      <webElementGuid>9aad3226-1659-4127-9e28-e640fc2bada5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Toko Katalon Test2'])[2]/following::dt[1]</value>
+      <webElementGuid>31176c50-d683-460d-aea2-eab325e0cf8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='decreased by'])[1]/preceding::dt[1]</value>
+      <webElementGuid>8d674109-4e28-4ca9-a96d-1a1cc9acd40b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pembelian'])[2]/preceding::dt[1]</value>
+      <webElementGuid>b4e5a9e1-b15a-4e05-b8ab-db3349b76062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/dl/dt</value>
+      <webElementGuid>e63d4b8d-3892-4246-b4db-ceab6ceed037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//dt[(text() = 'penjualan' or . = 'penjualan')]</value>
+      <webElementGuid>e1c80d57-94db-4a46-baea-e2f368b4936b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
